@@ -1,5 +1,5 @@
 ## Visualization of Car Insurance Claim using Tableau
- - Domain: Insurance
+ ### Domain: Insurance
 - Insights from Main dashboard:
   - There are 7,647 claims and 3433 unique claimants. The total claim amount is $42.14M and old claim amount of $30.81M
     When it comes to education, the claim rates are higher to those who have a high school education and the lowest for those who has a higher education, in this case PhD.
