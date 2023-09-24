@@ -1,10 +1,11 @@
 ## Visualization of Car Insurance Claim using Tableau
  - Domain: Insurance
 - Insights from Main dashboard:
-           - There are 7,647 claims and 3433 unique claimants. The total claim amount is $42.14M and old claim amount of $30.81M
-             When it comes to education, the claim rates are higher to those who have a high school education and the lowest for those who has a higher education, in this case PhD.
-           - By looking at the car types, the claim rates are high in the case of those (claimants) own SUV and low in the case of panel truck owners.
-           - If we look at the number of claims or old claim or the total claim amount, occupation wise, the claims are high for the ones who has blue collar jobs. Claim rates are lower in the case of doctors.
+  - There are 7,647 claims and 3433 unique claimants. The total claim amount is $42.14M and old claim amount of $30.81M
+    When it comes to education, the claim rates are higher to those who have a high school education and the lowest for those who has a higher education, in this case PhD.
+  - By looking at the car types, the claim rates are high in the case of those (claimants) own SUV and low in the case of panel truck owners.
+  - If we look at the number of claims or old claim or the total claim amount, occupation wise, the claims are high for the ones who has blue collar jobs. Claim rates are lower in the 
+    case of doctors.
 
 - Insights from Claims summary dashboard:
            - More than 50% (4,271claims) of the claims are under $2k.
