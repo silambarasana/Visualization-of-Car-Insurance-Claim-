@@ -8,12 +8,12 @@
     case of doctors.
 
 - Insights from Claims summary dashboard:
- - More than 50% (4,271claims) of the claims are under $2k.
- - More than 50% (4,715 claims) claimed the insurance only once.
- - Claimants those who are married are claiming the insurance more likely than those tho are unmarried ie. 53%:47%
- - By doing pareto chart, it is clear that around 53% claims are contributed by the owners of SUV and Minivan.
- - There are mainly two types of uses seen in this scenario- Private and Commercial. Claims are higher (61%) in the case of privately owned vehicles than commercial vehicles (39%).
- - Claims vs Gender comparison gives another surprising insight: Female claimants (57%) are higher than male claimants (43%).
+  - More than 50% (4,271claims) of the claims are under $2k.
+  - More than 50% (4,715 claims) claimed the insurance only once.
+  - Claimants those who are married are claiming the insurance more likely than those tho are unmarried ie. 53%:47%
+  - By doing pareto chart, it is clear that around 53% claims are contributed by the owners of SUV and Minivan.
+  - There are mainly two types of uses seen in this scenario- Private and Commercial. Claims are higher (61%) in the case of privately owned vehicles than commercial vehicles (39%).
+  - Claims vs Gender comparison gives another surprising insight: Female claimants (57%) are higher than male claimants (43%).
 
 - Insights from Exploratory Data Analysis (#1 & #2):
   - By looking at the claimants age and gender, the claims are higher in the case of age group 60-70 and so as with female claimants.
